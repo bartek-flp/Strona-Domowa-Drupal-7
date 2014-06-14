@@ -2,15 +2,37 @@ O STRONIE DOMOWEJ
 -----------------
 
 Na tej stronie możesz pobrać repozytorium dystrybucji Drupala 7 - Strona Domowa.
+Dystrybucja zawiera wszystkie potrzebne pliki do odpalenia strony w mniej niż 5 minut
 Jest to prosta instalacja strony z typowymi funkcjami:
 
 * Panel zarządzania trescią
-* Galeria zdjęć
+* Galeria zdjęć (np. realizacji)
 * Formularz kontaktowy
 
-...
+INSTALACJA
+----------
+
+1. Ściągnij pliki repozytorium na serwer
+Poprzez link DOWNLOAD
+lub poprzez GIT - git clone https://github.com/bartek-flp/Strona-Domowa-Drupal-7.git
+
+2. Załóz bazę danych na serwerze gdzie tworzysz stronę
+
+3. Odpal instalację
+W przeglądarce wpisz adres do katalogu z plikami strony
+
+Jest to typowa instalacja Drupala, możesz ją zobaczyc na filmie.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/R8MWKsheHxk" frameborder="0" allowfullscreen></iframe>
 
 
+OBSŁUGA STRONY
+--------------
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/R8MWKsheHxk" frameborder="0" allowfullscreen></iframe>
+
+
+------------------------------------------------------------------------------------------------
 
 CONTENTS OF THIS FILE
 ---------------------
