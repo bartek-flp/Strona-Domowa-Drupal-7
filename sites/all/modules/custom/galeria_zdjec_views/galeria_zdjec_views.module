@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Galeria zdjec Views feature.
+ */
+
+include_once 'galeria_zdjec_views.features.inc';

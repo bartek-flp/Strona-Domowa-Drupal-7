@@ -1,0 +1,17 @@
+name = Panel zarzadzania wpisami
+core = 7.x
+package = Panel wpisow
+version = 7.x-1.0
+project = panel_zarzadzania_wpisami
+dependencies[] = publishcontent
+dependencies[] = strongarm
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = views_ui
+features[ctools][] = strongarm:strongarm:1
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:2
+features[variable][] = publishcontent_article
+features[variable][] = publishcontent_page
+features[views_view][] = panel
+features_exclude[dependencies][ctools] = ctools

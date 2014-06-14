@@ -1,0 +1,12 @@
+; Packaging information for strona_domowa
+name = "Strona Domowa"
+description = "Instalacja strony domowej/firmowej z typowymi funkcjonalnościami"
+; exclusive = "1"
+core = "7.x"
+
+
+dependencies[] = application
+;dependencies[] = layout
+;dependencies[] = panel_zarzadzania_wpisami
+;dependencies[] = galeria_zdjec_views
+

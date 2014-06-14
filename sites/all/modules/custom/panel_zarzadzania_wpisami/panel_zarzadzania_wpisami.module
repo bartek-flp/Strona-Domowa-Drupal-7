@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Panel zarzadzania wpisami feature.
+ */
+
+include_once 'panel_zarzadzania_wpisami.features.inc';
